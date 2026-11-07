@@ -176,7 +176,7 @@ Application defaults and operational thresholds are defined in `backend/app/core
 
 - Environmental observations and forecasts: Open-Meteo Weather and Air Quality APIs.
 - Workplace data: synthetic aggregate shift feeds for the prototype.
-- Geographic and operational scope: Abu Dhabi, UAE; configured timezone: `Asia/Dubai`.
+
 
 ## License
 

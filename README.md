@@ -2,7 +2,7 @@
 
 ## Occupational Heat & Environmental Early Warning System
 
-HEAT-EWS is an Abu Dhabi-focused prototype for monitoring occupational heat risk, combining environmental data, workplace shift aggregates, explainable analytics, and operational alert workflows in one web application.
+HEAT-EWS is a prototype for monitoring occupational heat risk, combining environmental data, workplace shift aggregates, explainable analytics, and operational alert workflows in one web application.
 
 > **Prototype notice:** HEAT-EWS is a decision-support prototype, not a validated clinical diagnostic service. Always apply qualified professional judgment and local health and safety procedures.
 
@@ -176,7 +176,7 @@ Application defaults and operational thresholds are defined in `backend/app/core
 
 - Environmental observations and forecasts: Open-Meteo Weather and Air Quality APIs.
 - Workplace data: synthetic aggregate shift feeds for the prototype.
-- Geographic and operational scope: Abu Dhabi, UAE; configured timezone: `Asia/Dubai`.
+
 
 ## License
 
